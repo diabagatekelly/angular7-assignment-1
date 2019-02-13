@@ -1,6 +1,16 @@
 .success {
     color: green;
-    border: 2px solid black;
+    border: 2px solid green;
+    text-align: center;
+    font-weight: 900;
+    font-size: 50px;
+    padding: 2px;
+    margin-bottom: 10px;
+}
+
+.warning {
+    color: red;
+    border: 2px solid red;
     text-align: center;
     font-weight: 900;
     font-size: 50px;
