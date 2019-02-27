@@ -1,6 +1,10 @@
 # MyFirstApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0. The assignment was to create and manipulate simple App Components. 
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0. 
+
+## Assignment
+1. Create new components displaying messages of your choice and output them beneath one another.
+2. Style the components using a template or inline styling.
 
 ## Development server
 
